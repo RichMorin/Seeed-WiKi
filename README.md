@@ -1,19 +1,19 @@
-#Seeed Documentation
+# Seeed Documentation
 
-Here you can find all the Documentation for Seeedstudio, including Grove modules, Seeeduino series, LinkIt series as well as the others product. 
+Here you can find all the Documentation for Seeedstudio, including Grove modules, Seeeduino series, LinkIt series, and other products. 
 
-To view the Documentation, visit [wiki.seeed.cc](http://wiki.seeed.cc), where the Documentation is hosted. The Documentation system is drive by [MkDocs](http://www.mkdocs.org/). 
+To view the Documentation, visit [wiki.seeed.cc](http://wiki.seeed.cc), where the Documentation is hosted. The Documentation system is driven by [MkDocs](http://www.mkdocs.org/). 
 
 
-#Contributions
+# Contributions
 
-This Documentation is managed by Seeed, and we warmly welcome contribution to this documentation project.
+This Documentation is managed by Seeed. We warmly welcome contributions to this documentation project.
 
-* Improve grammar or fix wrong typing. 
-* Additional content to help provide a better understanding for the users
+* Fixes to grammar or typing errors
+* Added content to promote user understanding
 * A better image for a better performance
 * Translations to other languages
-* Others edits that is necessary.
+* Other edits, as necessary
 
 [How to edit a document](http://wiki.seeed.cc/How_to_edit_a_document/)
 
@@ -53,14 +53,14 @@ Project documentation with Markdown.
 
 LICENSE
 -------
-Copyright (c) 2008-2016 Seeed Development Limited (www.seeedstudio.com / www.seeed.cc)
+Copyright (c) 2008-2017 Seeed Development Limited (www.seeedstudio.com / www.seeed.cc)
 
 ### Documents and Images
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
 This work (product documents and associated images) are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"> </a>
 
 ### Third-party content
-The resources provided with the product documents also contains datasheets, software examples and other content copyrighted by 3rd party authors and companies. All such items are copyright of respective owners. The use of such items are governed by their respective licenses. 
+The resources provided with the product documents also contains datasheets, software examples, and other content copyrighted by 3rd party authors and companies. All such items are copyright of respective owners. The use of such items is governed by their respective licenses. 
 
 All trademarks are the property of their respective owners.
 
